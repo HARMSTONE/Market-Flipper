@@ -1,8 +1,8 @@
-# <img src="Market_Flipper.png" alt="Market Flipper Title" width="420">
+# <img src="Market_Flipper.png" alt="Market Flipper Title" width="300">
 
 ---
 
-## !<img src="About.png" alt="About" width="420">
+## [About](./images/About.png)  
 **Market Flipper** is an application designed to make earning silver in **Albion Online** easier, especially for beginners. The app provides two powerful tools to maximize your profits:  
 
 ### Features  
@@ -11,7 +11,7 @@
 
 ---
 
-## !<img src="Road.png" alt="RoadMap" width="420">
+## [Roadmap](./images/Road.png)  
 Here’s what’s coming next in **Market Flipper**:  
 
 - [ ] **.exe support** – A standalone executable for easier installation.  
@@ -21,7 +21,7 @@ Here’s what’s coming next in **Market Flipper**:
 
 ---
 
-## !<img src="Install.png" alt="Install" width="420">
+## [Installation](./images/Install.png)  
 Follow these steps to set up **Market Flipper**:  
 
 ### 1. Clone the Repository  
