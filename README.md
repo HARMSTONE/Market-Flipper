@@ -1,4 +1,4 @@
-# ![Market Flipper Title](Market_Flipper.png)  
+# <img src="Market_Flipper.png" alt="Market Flipper Title" width="300">
 
 ---
 
