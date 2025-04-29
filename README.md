@@ -1,4 +1,4 @@
-# ![Market Flipper Title](.Market_Flipper.png)  
+# ![Market Flipper Title](Market_Flipper.png)  
 
 ---
 
