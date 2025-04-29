@@ -21,7 +21,7 @@ Here’s what’s coming next in **Market Flipper**:
 
 ---
 
-## <img src="install.png" alt="Install Title" width="420">
+## <img src="Install.png" alt="Install Title" width="420">
 Follow these steps to set up **Market Flipper**:  
 
 ### 1. Clone the Repository  
