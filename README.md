@@ -1,30 +1,41 @@
-# Albion Market Analyzer
+# ![Market Flipper Title](./images/Market_Flipper.png)  
 
-A PyQt5 application for Albion Online that helps players analyze market prices and track gold trends.
+---
 
-## Features
-- Market flipping analysis between cities
-- Gold price tracking with historical charts
-- Multi-region support (Europe, America, Asia)
-- Automatic data refreshing every 5 minutes
-- Customizable alert sounds
+## ![About](./images/About.png)  
+**Market Flipper** is an application designed to make earning silver in **Albion Online** easier, especially for beginners. The app provides two powerful tools to maximize your profits:  
 
-## Requirements
-- Python 3.7+
-- PyQt5
-- matplotlib
-- requests
-- python-dateutil
-- numpy
+### Features  
+✔ **Market Flip Tool** – Compare prices between two royal cities to find the best resources to buy low and sell high for profit.  
+✔ **Gold Tracker** – Monitor real-time gold prices and get recommendations on whether to buy or sell based on market trends.  
 
-## Installation
-1. Clone the repository
-2. Install requirements: `pip install -r requirements.txt`
-3. Run: `python albion_market_analyzer.py`
+---
 
-## Usage
-1. Select your server region on startup
-2. Use the Market Flipping tab to compare prices between cities
-3. Check the Gold Tracker tab for price trends and recommendations
+## ![Roadmap](./images/Road.png)  
+Here’s what’s coming next in **Market Flipper**:  
 
-Note: Requires logo.png, Market_Flipper.png, and gold_sound.mp3 in the same directory
+- [ ] **.exe support** – A standalone executable for easier installation.  
+- [ ] **Profit Notifications** – Get alerts when high-profit opportunities arise.  
+- [ ] **Auto-Updater** – The app will update itself automatically.  
+- [ ] **Discord Bot** – Access Market Flipper features directly from Discord.  
+
+---
+
+## ![Installation](./images/Install.png)  
+Follow these steps to set up **Market Flipper**:  
+
+### 1. Clone the Repository  
+Open **Command Prompt (Windows)** or **Terminal (Mac/Linux)** and run:  
+
+`git clone https://github.com/yourusername/Market-Flipper.git`
+**(Don’t have Git? [Download it here.](https://git-scm.com/downloads))**
+
+### 2. Install Dependencies
+**Navigate to the project folder and install required libraries:**
+`cd Market-Flipper`
+`pip install -r requirements.txt`
+**(Ensure [Python 3+](https://www.python.org/downloads/) is installed.)**
+
+### 3. Run the App
+Start the tool with:
+`python Market_Flipper.py`
