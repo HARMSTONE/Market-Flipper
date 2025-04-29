@@ -14,8 +14,6 @@ import os
 import numpy as np
 from dateutil.parser import parse
 
-os.environ['QT_PLUGIN_PATH'] = 'c:/Users/aleks/OneDrive/Документи/Albion money project/venv/Lib/site-packages/PyQt5/Qt5/plugins'
-
 def get_file_path(filename):
     if hasattr(sys, '_MEIPASS'):  # Running as bundled EXE
         return os.path.join(sys._MEIPASS, filename)
