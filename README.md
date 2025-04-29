@@ -1,6 +1,4 @@
-# <div align="center">
-    <img src="Market_Flipper.png" alt="Market Flipper Title" width="300">
-</div>
+# <img src="Market_Flipper.png" alt="Market Flipper Title" width="300" style="display: block; margin: auto;">
 
 ---
 
